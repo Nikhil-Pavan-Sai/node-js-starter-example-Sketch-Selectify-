@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zorro-design-library/static/css/main.d1b05096.chunk.css",
+    "main.js": "/zorro-design-library/static/js/main.608cad5c.chunk.js",
+    "main.js.map": "/zorro-design-library/static/js/main.608cad5c.chunk.js.map",
+    "runtime-main.js": "/zorro-design-library/static/js/runtime-main.a5213f8c.js",
+    "runtime-main.js.map": "/zorro-design-library/static/js/runtime-main.a5213f8c.js.map",
+    "static/js/2.f02a0f6e.chunk.js": "/zorro-design-library/static/js/2.f02a0f6e.chunk.js",
+    "static/js/2.f02a0f6e.chunk.js.map": "/zorro-design-library/static/js/2.f02a0f6e.chunk.js.map",
+    "index.html": "/zorro-design-library/index.html",
+    "precache-manifest.72d2ff77218734a3b86a544bd47f3a15.js": "/zorro-design-library/precache-manifest.72d2ff77218734a3b86a544bd47f3a15.js",
+    "service-worker.js": "/zorro-design-library/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/zorro-design-library/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.f02a0f6e.chunk.js.LICENSE.txt": "/zorro-design-library/static/js/2.f02a0f6e.chunk.js.LICENSE.txt",
+    "static/media/brush.svg": "/zorro-design-library/static/media/brush.7fa4b58b.svg",
+    "static/media/dove.svg": "/zorro-design-library/static/media/dove.fb325b82.svg",
+    "static/media/pencil.svg": "/zorro-design-library/static/media/pencil.e56342e5.svg",
+    "static/media/zemoso.svg": "/zorro-design-library/static/media/zemoso.b1fb1d7a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5213f8c.js",
+    "static/js/2.f02a0f6e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.608cad5c.chunk.js"
+  ]
+}
